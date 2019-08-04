@@ -1,1 +1,1 @@
-A group project that creates an program that displays songs' popularity among groups with different demographics.
+A group project that creates an program that displays songs' popularity among groups of students with different demographics.
